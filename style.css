@@ -1,19 +1,16 @@
 *{
     background-color: white;
     color: black;
+    width: 
 }
 p{
     color: black;
 }
 .header{
     text-align: center;
+    border: 5px black double;
 }
-th{
-    padding: 40px;
-}
+.form-group{}
 #scheduleHeader{
     font-size: 24px;
-}
-.table{
-    margin-left: 150px;
 }
